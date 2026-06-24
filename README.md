@@ -1,4 +1,4 @@
-# sStockSense
+# StockSense
 
 AI-powered stock price forecasting web app built with Python.
 
